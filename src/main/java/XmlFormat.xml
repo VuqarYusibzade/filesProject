@@ -1,0 +1,15 @@
+<Students>
+    <Student>
+        <id>1</id>
+        <name>Vugar Ysuibzada</name>
+        <age>22</age>
+        <speciality>Program</speciality>
+    </Student>
+    <Student>
+        <id>2</id>
+        <name>MatrixXetasi Ulvi</name>
+        <age>22</age>
+        <speciality>NPC</speciality>
+    </Student>
+
+</Students>
